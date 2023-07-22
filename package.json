@@ -1,0 +1,26 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "app.js",
+  "bin": "./app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Denis Korneev",
+  "license": "ISC",
+  "homepage": "https://rocketstars.ru",
+  "repository": {
+    "type": "git",
+    "url": "https://rocketstars.ru"
+  },
+  "bugs": {
+    "url": "https://rocketstars.ru",
+    "email": "eliteliam@gmail.com"
+  }
+}
